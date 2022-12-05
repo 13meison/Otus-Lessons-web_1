@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "otus-lessons-web-1"
+version = "0.1.0"
+description = ""
+authors = ["13mei <13meison@gmail.com>"]
+readme = "README.md"
+packages = [{include = "tests"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.2.0"
+selenium = "^3"
+webdriver-manager = "^3.8.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "error",
+    "ignore::DeprecationWarning"]

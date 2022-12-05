@@ -1,0 +1,25 @@
+1669544827822	geckodriver	INFO	Listening on 127.0.0.1:57528
+1669544926566	geckodriver	INFO	Listening on 127.0.0.1:57692
+1669544929586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofile4Y5cb4"
+1669544930517	Marionette	INFO	Marionette enabled
+1669544930524	Marionette	INFO	Listening on port 57706
+Read port: 57706
+1669544931706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofile4Y5cb4\\search.json.mozlz4", (void 0)))
+1669544932982	Marionette	INFO	Stopped listening on port 57706
+1669545020083	geckodriver	INFO	Listening on 127.0.0.1:57771
+1669545023104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofileNOUrpw"
+1669545023577	Marionette	INFO	Marionette enabled
+1669545023582	Marionette	INFO	Listening on port 57783
+Read port: 57783
+1669545023931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofileNOUrpw\\search.json.mozlz4", (void 0)))
+1669545025670	Marionette	INFO	Stopped listening on port 57783
+1669548619677	geckodriver	INFO	Listening on 127.0.0.1:53984
+1669548622702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofileOpnFzl"
+1669548623190	Marionette	INFO	Marionette enabled
+1669548623198	Marionette	INFO	Listening on port 54000
+Read port: 54000
+1669548623550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\13mei\\AppData\\Local\\Temp\\rust_mozprofileOpnFzl\\search.json.mozlz4", (void 0)))
+1669548625337	Marionette	INFO	Stopped listening on port 54000
